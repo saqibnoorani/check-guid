@@ -1,5 +1,5 @@
 {
-  "name": "is-guid",
+  "name": "isguid",
   "version": "1.0.0",
   "description": "Check if a given value is Guid or not",
   "main": "./lib/index.js",
@@ -23,7 +23,7 @@
   "author": "Najmus Saqib",
   "license": "MIT",
   "bin": {
-    "is-guid": "./lib/index.js"
+    "isguid": "./lib/index.js"
   },
   "devDependencies": {
     "@types/node": "^10.12.10",
