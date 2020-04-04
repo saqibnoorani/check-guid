@@ -1,30 +1,31 @@
 
-<h1  align="center">Welcome to isguid 👋</h1>
-![Node.js CI](https://github.com/saqibnoorani/isguid/workflows/Node.js%20CI/badge.svg)
+<h1  align="center">Welcome to check-guid 👋</h1>
+![Node.js CI](https://github.com/saqibnoorani/check-guid/workflows/Node.js%20CI/badge.svg)
+![npm-publish](https://github.com/saqibnoorani/check-guid/workflows/npm-publish/badge.svg)
 
 <p>
 
-<a  href="https://www.npmjs.com/package/isguid"  target="_blank">
+<a  href="https://www.npmjs.com/package/check-guid"  target="_blank">
 
-<img  alt="Version"  src="https://img.shields.io/npm/v/isguid.svg">
+<img  alt="Version"  src="https://img.shields.io/npm/v/check-guid.svg">
 
 </a>
 
-<a  href="https://github.com/saqibnoorani/isguid#readme"  target="_blank">
+<a  href="https://github.com/saqibnoorani/check-guid#readme"  target="_blank">
 
 <img  alt="Documentation"  src="https://img.shields.io/badge/documentation-yes-brightgreen.svg"  />
 
 </a>
 
-<a  href="https://github.com/saqibnoorani/isguid/graphs/commit-activity"  target="_blank">
+<a  href="https://github.com/saqibnoorani/check-guid/graphs/commit-activity"  target="_blank">
 
 <img  alt="Maintenance"  src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"  />
 
 </a>
 
-<a  href="https://github.com/saqibnoorani/isguid/blob/master/LICENSE"  target="_blank">
+<a  href="https://github.com/saqibnoorani/check-guid/blob/master/LICENSE"  target="_blank">
 
-<img  alt="License: MIT"  src="https://img.shields.io/github/license/saqibnoorani/isguid"  />
+<img  alt="License: MIT"  src="https://img.shields.io/github/license/saqibnoorani/check-guid"  />
 
 </a>
 
@@ -42,7 +43,7 @@
 
   
 
-### 🏠 [Homepage](https://www.npmjs.com/package/isguid)
+### 🏠 [Homepage](https://www.npmjs.com/package/check-guid)
 
   
 
@@ -52,7 +53,7 @@
 
 ```sh
 
-npm install isguid
+npm install check-guid
 
 ```
 
@@ -63,9 +64,9 @@ npm install isguid
   
 
 ```sh
-import {isGuid} from 'isguid'
+import {isGuid} from 'check-guid'
 or
-var isGuid = require('isguid').isGuid
+var isGuid = require('check-guid').isGuid
 
 var value =  'cde88ae8-2300-4f6b-a67a-292efecfe928';
 
@@ -109,7 +110,7 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [Najmus Saqib](https://github.com/saqibnoorani).<br  />
 
-This project is [MIT](https://github.com/saqibnoorani/isguid/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/saqibnoorani/check-guid/blob/master/LICENSE) licensed.
 
   
 
