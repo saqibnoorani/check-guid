@@ -1,7 +1,7 @@
 
 <h1  align="center">Welcome to check-guid 👋</h1>
-![Node.js CI](https://github.com/saqibnoorani/check-guid/workflows/Node.js%20CI/badge.svg)
-![npm-publish](https://github.com/saqibnoorani/check-guid/workflows/npm-publish/badge.svg)
+![npm-publish](https://github.com/saqibnoorani/check-guid/workflows/npm-publish/badge.svg?branch=master)
+![Node.js CI](https://github.com/saqibnoorani/check-guid/workflows/Node.js%20CI/badge.svg?branch=master)
 
 <p>
 
