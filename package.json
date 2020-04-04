@@ -1,6 +1,6 @@
 {
   "name": "check-guid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check if a given value is Guid or not",
   "main": "./lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/saqibnoorani/is-guid.git"
+    "url": "https://github.com/saqibnoorani/check-guid.git"
   },
   "author": "Najmus Saqib",
   "license": "MIT",
