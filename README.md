@@ -1,30 +1,30 @@
 
-<h1  align="center">Welcome to is-guid 👋</h1>
-![Node.js CI](https://github.com/saqibnoorani/is-guid/workflows/Node.js%20CI/badge.svg)
+<h1  align="center">Welcome to isguid 👋</h1>
+![Node.js CI](https://github.com/saqibnoorani/isguid/workflows/Node.js%20CI/badge.svg)
 
 <p>
 
-<a  href="https://www.npmjs.com/package/is-guid"  target="_blank">
+<a  href="https://www.npmjs.com/package/isguid"  target="_blank">
 
-<img  alt="Version"  src="https://img.shields.io/npm/v/is-guid.svg">
+<img  alt="Version"  src="https://img.shields.io/npm/v/isguid.svg">
 
 </a>
 
-<a  href="https://github.com/saqibnoorani/is-guid#readme"  target="_blank">
+<a  href="https://github.com/saqibnoorani/isguid#readme"  target="_blank">
 
 <img  alt="Documentation"  src="https://img.shields.io/badge/documentation-yes-brightgreen.svg"  />
 
 </a>
 
-<a  href="https://github.com/saqibnoorani/is-guid/graphs/commit-activity"  target="_blank">
+<a  href="https://github.com/saqibnoorani/isguid/graphs/commit-activity"  target="_blank">
 
 <img  alt="Maintenance"  src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"  />
 
 </a>
 
-<a  href="https://github.com/saqibnoorani/is-guid/blob/master/LICENSE"  target="_blank">
+<a  href="https://github.com/saqibnoorani/isguid/blob/master/LICENSE"  target="_blank">
 
-<img  alt="License: MIT"  src="https://img.shields.io/github/license/saqibnoorani/is-guid"  />
+<img  alt="License: MIT"  src="https://img.shields.io/github/license/saqibnoorani/isguid"  />
 
 </a>
 
@@ -42,7 +42,7 @@
 
   
 
-### 🏠 [Homepage](https://www.npmjs.com/package/is-guid)
+### 🏠 [Homepage](https://www.npmjs.com/package/isguid)
 
   
 
@@ -52,7 +52,7 @@
 
 ```sh
 
-npm install is-guid
+npm install isguid
 
 ```
 
@@ -63,9 +63,9 @@ npm install is-guid
   
 
 ```sh
-import {isGuid} from 'is-guid'
+import {isGuid} from 'isguid'
 or
-var isGuid = require('is-guid').isGuid
+var isGuid = require('isguid').isGuid
 
 var value =  'cde88ae8-2300-4f6b-a67a-292efecfe928';
 
@@ -109,7 +109,7 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [Najmus Saqib](https://github.com/saqibnoorani).<br  />
 
-This project is [MIT](https://github.com/saqibnoorani/is-guid/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/saqibnoorani/isguid/blob/master/LICENSE) licensed.
 
   
 
