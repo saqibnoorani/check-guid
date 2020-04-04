@@ -27,6 +27,5 @@ jobs:
         registry-url: 'https://registry.npmjs.org'
     - run: npm install
     - run: npm run build --if-present
-    - run: npm publish
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+    - name: Publish to npm
+      uses: pascalgn/npm-publish-action@1.2.0
