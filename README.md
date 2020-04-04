@@ -1,6 +1,6 @@
 
 <h1  align="center">Welcome to is-guid 👋</h1>
-![Node.js CI](https://github.com/saqibnoorani/is-guid/workflows/Node.js%20CI/badge.svg?branch=master&event=push)
+![Node.js CI](https://github.com/saqibnoorani/is-guid/workflows/Node.js%20CI/badge.svg)
 
 <p>
 
